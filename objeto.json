@@ -1,0 +1,76 @@
+{
+    "empleados": [
+        {
+            "Nombre": "Cristian",
+            "Apellido": "Aguirre",
+            "Direccion": "Carrera 33 # 47 35",
+            "Correo": "dextter1913@gmail.com",
+            "Usuario": "dextter1913"
+        },
+        {
+            "Nombre": "Camila",
+            "Apellido": "Monsalve",
+            "Direccion": "Carrera 25 # 40 58",
+            "Correo": "Camila67@gmail.com",
+            "Usuario": "Cami7852"
+        },
+        {
+            "Nombre": "Laura",
+            "Apellido": "Sandoval",
+            "Direccion": "Calle 90A # 56 20",
+            "Correo": "LaurithaBonitha@gmail.com",
+            "Usuario": "LauRSan"
+        },
+        {
+            "Nombre": "Dainerys",
+            "Apellido": "Targerian",
+            "Direccion": "Avenida 56 # 75 50",
+            "Correo": "madredragones@gmail.com",
+            "Usuario": "kalesy50"
+        },
+        {
+            "Nombre": "Mario",
+            "Apellido": "Lopez",
+            "Direccion": "Carrera 44 # 60a 20",
+            "Correo": "Mario1994@gmail.com",
+            "Usuario": "MarioLoAr"
+        }
+    ],
+    "Temporales": [
+        {
+            "Nombre": "Cristina",
+            "Apellido": "Aguirre",
+            "Direccion": "Carrera 33 # 47 35",
+            "Correo": "dextter1913@gmail.com",
+            "Usuario": "dextter1913"
+        },
+        {
+            "Nombre": "Sebastian",
+            "Apellido": "Monsalve",
+            "Direccion": "Carrera 25 # 40 58",
+            "Correo": "Camila67@gmail.com",
+            "Usuario": "Cami7852"
+        },
+        {
+            "Nombre": "Stefany",
+            "Apellido": "Sandoval",
+            "Direccion": "Calle 90A # 56 20",
+            "Correo": "LaurithaBonitha@gmail.com",
+            "Usuario": "LauRSan"
+        },
+        {
+            "Nombre": "Maria",
+            "Apellido": "Targerian",
+            "Direccion": "Avenida 56 # 75 50",
+            "Correo": "madredragones@gmail.com",
+            "Usuario": "kalesy50"
+        },
+        {
+            "Nombre": "Ana",
+            "Apellido": "Lopez",
+            "Direccion": "Carrera 44 # 60a 20",
+            "Correo": "Mario1994@gmail.com",
+            "Usuario": "MarioLoAr"
+        }
+    ]
+}
